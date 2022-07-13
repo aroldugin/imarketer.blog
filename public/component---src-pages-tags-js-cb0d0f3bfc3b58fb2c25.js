@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[159],{1325:function(e,t,a){a.r(t);var n=a(1597),r=a(7294);t.default=function(){return r.createElement(n.StaticQuery,{query:"2530712760",render:function(e){return r.createElement("div",{className:"tagsindex mt-4"},e.allWpTag.nodes.map((function(e){var t=e.name,a=e.id;return r.createElement(n.Link,{key:a,to:"/tag/"+e.slug,className:"btn btn-outline btn-sm mr-2 mb-2"},t)})))}})}}}]);
+//# sourceMappingURL=component---src-pages-tags-js-cb0d0f3bfc3b58fb2c25.js.map

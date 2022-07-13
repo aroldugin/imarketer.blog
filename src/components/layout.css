@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,200;1,800&display=swap');
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+    .mob-none {display: none!important;}
+   }
+#btn-back-to-top {
+    position: fixed;
+    display: none;
+  }
+  .dark {
+    height: 5rem;
+    overflow: hidden;
+}
+
+.navbar {
+    height: 5rem;
+}
+.page {
+    max-width: 1700px;
+    margin: 0 auto;
+}
+blockquote, dl, dd, hr, figure, p, pre {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+p {
+    margin: 20px 0;
+}
+
+blockquote {
+    border-left: solid #000;
+    padding-left: 2rem;
+    margin: 1rem;
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+h1 {font-size: 2rem}
+
+h2 {font-size: 1.75rem} 
+
+h3 {font-size: 1.5rem} 
+
+h4 {font-size: 1.25rem}
+
+h5 {font-size: 1rem}
+
+h6 {font-size: 1rem}
+d.fast-comments .footer {
+    display: none!important;
+}
+ol, ul {
+    margin: 25px;
+}
+
+ol>li, ul>li {
+    list-style: auto;
+}
+
+a {
+    color: blue;
+    text-decoration: revert;
+}
+a:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+.block a {
+    color: inherit;
+    text-decoration: inherit;
+}
