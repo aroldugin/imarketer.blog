@@ -4,7 +4,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/andrew/Desktop/magicShop/imarketer/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/andrew/Desktop/magicShop/imarketer/src/pages/404.js")),
   "component---src-pages-all-posts-js": preferDefault(require("/Users/andrew/Desktop/magicShop/imarketer/src/pages/all-posts.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/andrew/Desktop/magicShop/imarketer/src/pages/index.js")),
