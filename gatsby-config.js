@@ -14,6 +14,7 @@ module.exports = {
           shortname: `imarketer-blog-1`
       }
   },
+   `gatsby-plugin-netlify`,
     'gatsby-plugin-postcss',
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
